@@ -39,3 +39,7 @@ Durante o desenvolvimento foram utilizados os **hooks mais recentes do React** j
 ├── context # Context API  
 ├── pages # Páginas do projeto  
 └── utils # Funções auxiliares  
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ff4fcbb9-5ade-4324-a039-ceffc2a40233" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/e53fc49f-d9f9-4677-aa06-1e98b12a3001" />
