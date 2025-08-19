@@ -19,7 +19,6 @@ Durante o desenvolvimento foram utilizados os **hooks mais recentes do React** j
 - **React Router DOM** (rotas dinâmicas)  
 - **React-google-chart** (gráficos interativos)  
 
-
 ---
 
 ## ⚛️ Conceitos aplicados
@@ -33,9 +32,10 @@ Durante o desenvolvimento foram utilizados os **hooks mais recentes do React** j
 ---
 
 ## 📂 Estrutura de pastas
-/src
-├── assets # Imagens e ícones
-├── components # Componentes reutilizáveis
-├── context # Context API
-├── pages # Páginas do projeto
-├── utils # Funções auxiliares
+
+/src  
+├── assets # Imagens e ícones  
+├── components # Componentes reutilizáveis  
+├── context # Context API  
+├── pages # Páginas do projeto  
+└── utils # Funções auxiliares  
